@@ -1,15 +1,12 @@
 # Super Mario page with Tailwind css
 
-_Acá va un párrafo que describa lo que es el proyecto_
+_Practice animate.css and tailwindcss v3+_
 
 ## Starting 🚀
 
-_Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas._
-
-
 ## Built with 🛠️
 
-_Menciona las herramientas que utilizaste para crear tu proyecto_
+* [Animate CSS](https://anímate.style/) - Animations css
 
 * [Tailwind CSS](https://tailwindcss.com/) - Framework css
 
