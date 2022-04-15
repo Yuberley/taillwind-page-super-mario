@@ -1,6 +1,6 @@
 module.exports = {
 	content: [
-		'./public/**/*.html'
+		'./docs/**/*.html'
 	],
 	darkMode: 'media',
 	theme: {
