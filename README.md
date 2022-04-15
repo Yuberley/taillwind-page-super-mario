@@ -6,7 +6,7 @@ _Practice animate.css and tailwindcss v3+_
 
 ## Built with 🛠️
 
-* [Animate CSS](https://anímate.style/) - Animations css
+* [Animate CSS](https://animate.style/) - Animations css
 
 * [Tailwind CSS](https://tailwindcss.com/) - Framework css
 
